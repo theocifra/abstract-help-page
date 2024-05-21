@@ -1,0 +1,20 @@
+#main {
+    font-size: 26px;
+    justify-content: center;
+    margin: 100px 100px;
+    height: 1000px;
+    display: grid;
+    grid-template-columns: 10fr 10fr;
+    a {
+        text-decoration: none;
+    }
+    a:hover {
+        text-decoration: underline;
+    }
+    #itens {
+        width: 500px;
+        height: auto;
+        display: inline-block;
+        margin: 50px;
+    }
+}

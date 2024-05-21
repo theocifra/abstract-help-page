@@ -1,0 +1,18 @@
+:root {
+    --blue: #4C5FD5;
+    --color1: #dadbf1;
+}
+
+body {
+    font-family: Montserrat, sans-serif;
+    font-weight: 520;
+    margin: 0px;
+}
+
+@import './nav';
+
+@import './how';
+
+@import './main';
+
+@import './final';
